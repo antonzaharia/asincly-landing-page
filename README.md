@@ -1,6 +1,6 @@
-# Colllect landing page
+# Asinlcy landing page
 
-[Visit Colllect landing page](https://colllect.io)
+[Visit Asinlcy landing page](asincly.web.app)
 
 
 # Licence
